@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 idhbci
 
 skdvbfwajkcvakv
+=======
+idhbcskdccbksbbi
+>>>>>>> 84dd56e1e36a0c2835eda552d0cc4da990b882bf
